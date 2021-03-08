@@ -2,6 +2,16 @@
 
 <p>Welcome to my page! </br> I'm Matias, React developer from <img src="https://img.icons8.com/color/48/000000/argentina-circular.png" width="16"/> <b>Córdoba, Argentina</b>, currently living in Buenos Aires. </p>
 
+## 📚 About Me:
+<a href="https://github.com/GallegosMatias/"><img align="right" width="350" height="263" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
+  - 👨‍💻 React Developer at <a href = "https://www.instagram.com/altairdevs/"> Altair Devs </a>.
+  - 👨‍💻 Wordpress & Front end Developer <a href = "https://www.instagram.com/merit.gestionderedes/"> Merit </a>.
+  - 🎓 I've studyied Web Development at Platzi. 
+  - 🎓 I recently started studying Data Science.
+  - 🎯 I'm recently completed <a href="https://platzi.com/p/Jhed/curso/1981-woocommerce/diploma/detalle/"> Curso de Creación de Tiendas en Línea con WooCommerce at Platzi</a>. ![100%](https://progress-bar.dev/100)
+  - 🚀 I'm working on improving my project <a href = "https://github.com/GallegosMatias/astrovideo-reactjs"> AstroVideo</a> which is a Netflix-based <a href="https://astrovideo-ar.web.app/">Web Application</a> that uses the <a href="https://developers.themoviedb.org/3">TMDB API</a>.
+  - 📧 You can reach me at: gallegosmatiasjoel@gmail.com
+
 ## <h3>My Languages & Tools</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -33,7 +43,10 @@
 
 ## Check out my website!
 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gallegosmatiasdev.web.app//)](https://gallegosmatiasdev.web.app//) <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1Jb0bizlvSeGbV0cqGhEIiXOxPkFx1s0y/view ' target=_blank><u>here</u>.</a></p>
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gallegosmatiasdev.web.app//)](https://gallegosmatiasdev.web.app//) 
+
+## Get a copy of my resume!
+<p align='left'> Download <a href='https://drive.google.com/file/d/1Jb0bizlvSeGbV0cqGhEIiXOxPkFx1s0y/view ' target=_blank><u>here!</u>.</a></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GallegosMatias&theme=dark&show_icons=true)
 
