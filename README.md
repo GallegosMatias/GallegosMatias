@@ -1,3 +1,8 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p>Welcome to my page! </br> I'm Matias, React developer from <img src="https://img.icons8.com/color/48/000000/argentina-circular.png" width="16"/> <b>Córdoba, Argentina</b>, currently living in Buenos Aires. </p>
+
+
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gallegosmatiasdev.web.app//)](https://gallegosmatiasdev.web.app//) <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1Jb0bizlvSeGbV0cqGhEIiXOxPkFx1s0y/view ' target=_blank><u>here</u>.</a></p>
 
 <h3>My Languages & Tools</h3>
