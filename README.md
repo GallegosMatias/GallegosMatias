@@ -11,10 +11,9 @@
 
 ## ☎️ Contact Me:
 <p align="center">
-<a href = "mailto:wali6985@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
-<a href = https://github.com/SABERGLOW><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
-<a href = https://www.linkedin.com/in/sardarwaliullah/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-<a href = https://www.facebook.com/sardarwaliullah/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
-<a href = https://www.instagram.com/sardarwaliullah/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
+<a href = "mailto:gallegosmatiasjoel@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
+<a href = https://github.com/GallegosMatias><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
+<a href = https://www.linkedin.com/in/gallegosmatias/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
+<a href = https://www.instagram.com/Jhed.ar/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
 
 <h3>Email me</h3>
