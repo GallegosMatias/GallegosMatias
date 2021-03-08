@@ -1,6 +1,6 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gallegosmatiasdev.web.app//)](https://gallegosmatiasdev.web.app//) <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1Jb0bizlvSeGbV0cqGhEIiXOxPkFx1s0y/view ' target=_blank><u>here</u>.</a></p>
 
-<h3>Things I code with</h3>
+<h3>My Languages & Tools</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
