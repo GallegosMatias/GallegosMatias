@@ -10,4 +10,5 @@
 </p>
 
 <h3>Email me</h3>
-[![Gmail Badge](https://img.shields.io/badge/-gallegosmatiasjoel@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gallegosmatiasjoel@gmail.com)](mailto:gallegosmatiasjoel@gmail.com) 
+<p>
+[![Gmail Badge](https://img.shields.io/badge/-gallegosmatiasjoel@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gallegosmatiasjoel@gmail.com)](mailto:gallegosmatiasjoel@gmail.com)</p>
