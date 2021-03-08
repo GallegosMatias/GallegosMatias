@@ -3,7 +3,6 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=GallegosMatias alt=GallegosMatias /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GallegosMatias&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GallegosMatias&layout=compact)](https://github.com/GallegosMatias/github-readme-stats)
 
 ## Contact Me:
 <p align="center">
