@@ -46,7 +46,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gallegosmatiasdev.web.app//)](https://gallegosmatiasdev.web.app//) 
 
 ## Get a copy of my resume!
-<p align='left'> Download <a href='https://drive.google.com/file/d/1Jb0bizlvSeGbV0cqGhEIiXOxPkFx1s0y/view ' target=_blank><u>here!</u>.</a></p>
+<p align='left'> Download <a href='https://drive.google.com/file/d/1Jb0bizlvSeGbV0cqGhEIiXOxPkFx1s0y/view ' target=_blank><u>here!</u></a></p>
 
 
 ## Some GitHub stats...
