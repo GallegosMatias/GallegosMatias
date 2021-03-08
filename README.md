@@ -48,6 +48,8 @@
 ## Get a copy of my resume!
 <p align='left'> Download <a href='https://drive.google.com/file/d/1Jb0bizlvSeGbV0cqGhEIiXOxPkFx1s0y/view ' target=_blank><u>here!</u>.</a></p>
 
+
+## Some GitHub stats...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GallegosMatias&theme=dark&show_icons=true)
 
 ## Contact Me:
