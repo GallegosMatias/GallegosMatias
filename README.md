@@ -7,7 +7,7 @@
   - 👨‍💻 React Developer at <a href = "https://www.instagram.com/altairdevs/"> Altair Devs </a>.
   - 👨‍💻 Freelance Wordpress & Front end Developer.
   - 🎓 I've studied Web Development at Platzi. 
-  - 🎓 I recently started studying Data Science.
+  - 🎓 Currently studying Data Science.
   - 🎯 I'm recently completed <a href="https://platzi.com/p/Jhed/curso/1981-woocommerce/diploma/detalle/"> Curso de Creación de Tiendas en Línea con WooCommerce at Platzi</a>. ![100%](https://progress-bar.dev/100)
   - 🚀 I'm working on improving my project <a href = "https://github.com/GallegosMatias/astrovideo-reactjs"> AstroVideo</a> which is a Netflix-based <a href="https://astrovideo-ar.web.app/">Web Application</a> that uses the <a href="https://developers.themoviedb.org/3">TMDB API</a>.
   - 📧 You can reach me at: gallegosmatiasjoel@gmail.com
