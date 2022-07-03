@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>I'm Matias, React developer from <img src="https://iconape.com/wp-content/files/ih/245680/png/fernet-logo.png" width="16"/> <b>Córdoba, Argentina</b>, currently living in Buenos Aires. <img src="https://user-images.githubusercontent.com/56095797/177039013-c6bd8714-b03c-414e-b137-94ae9d864207.png" width="16"/></p>
+<p>I'm Matias, React developer from <img src="https://iconape.com/wp-content/files/ih/245680/png/fernet-logo.png" width="20"/> <b>Córdoba, Argentina</b>, currently living in Buenos Aires. <img src="https://user-images.githubusercontent.com/56095797/177039013-c6bd8714-b03c-414e-b137-94ae9d864207.png" width="16"/></p>
 
 ## 📚 About Me:
 <a href="https://github.com/GallegosMatias/"><img align="right" width="350" height="263" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
