@@ -1,14 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>I'm Matias, React developer from <b>Córdoba, Argentina</b><img src="https://iconape.com/wp-content/files/ih/245680/png/fernet-logo.png" width="27"/> , currently living in Buenos Aires<img src="https://cdn-icons-png.flaticon.com/512/4082/4082895.png" width="27"/></p>
+<p>I'm Matias, Backend Developer & IT Specialist from Córdoba, Argentina. </p>
 
 ## 📚 About Me:
 <a href="https://github.com/GallegosMatias/"><img align="right" width="350" height="263" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
-  - 👨‍💻 React Developer at <a href = "https://www.instagram.com/altairdevs/"> Altair Devs </a>.
-  - 👨‍💻 Freelance Wordpress & Front end Developer.
-  - 🎓 I've studied Web Development at Platzi. 
-  - 🎓 Currently studying Data Science.
-  - 🚀 I'm working on improving my project <a href = "https://github.com/GallegosMatias/astrovideo-reactjs"> AstroVideo</a> which is a Netflix-based <a href="https://astrovideo-ar.web.app/">Web Application</a> that uses the <a href="https://developers.themoviedb.org/3">TMDB API</a>.
+  - 👨‍💻 IT Field at <a href = "https://apexamerica.com/en/"> Apex America</a>.
+  - 👨‍💻 (Sometimes) Developer at <a href = "https://www.instagram.com/altairdevs/"> Altair Devs </a>.
+  - 🎓 Studied Web Development at Platzi & Udemy.
+  - 🎓 Currently studying Backend Development.
   - 📧 You can reach me at: gallegosmatiasjoel@gmail.com
 
 ## <h3>My Languages & Tools</h3>
@@ -42,7 +41,7 @@
 
 ## Check out my website!
 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gallegosmatiasdev.web.app//)](https://gallegosmatiasdev.web.app//) 
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=/)]() NOT AVAILABLE ATM
 
 ## Get a copy of my resume!
 <p align='left'> Download <a href='#' target=_blank><u>here!</u></a>(not available atm)</p>
